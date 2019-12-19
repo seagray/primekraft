@@ -1,0 +1,12 @@
+User-agent:*
+Disallow: /card
+Disallow: /*reset-password
+Disallow: /*?utm
+
+User-agent:Yandex
+Disallow: /card
+Disallow: /*reset-password
+Disallow: /*?utm
+
+Host: http://primekraft.ru/
+Sitemap: http://primekraft.ru/sitemap.xml
